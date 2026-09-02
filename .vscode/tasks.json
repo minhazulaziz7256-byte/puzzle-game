@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Open Live Server",
+      "type": "shell",
+      "command": "echo",
+      "args": [
+        "Right-click index.html and select 'Open with Live Server'"
+      ],
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      }
+    }
+  ]
+}

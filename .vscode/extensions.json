@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "formulahendry.code-runner",
+    "ms-vscode.vscode-typescript-next",
+    "ms-vscode.Theme-TomorrowKit",
+    "PKief.material-icon-theme"
+  ]
+}

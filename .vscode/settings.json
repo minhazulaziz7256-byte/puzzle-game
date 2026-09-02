@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Fira Code, Consolas, monospace",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "editor.wordWrap": "on",
+  "html.format.enable": true,
+  "css.validate": true,
+  "javascript.validate.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
